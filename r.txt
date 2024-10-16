@@ -1,0 +1,13 @@
+os
+re
+requests
+threading
+pandas as pd
+json
+shutil
+from time
+time
+from pyrogram Client, filters, enums
+from pyrogram.types ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
+from py7zr unpack_7zarchive
+patoolib
